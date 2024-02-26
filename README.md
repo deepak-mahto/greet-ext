@@ -2,6 +2,9 @@
 
 Greet Ext is a browser extension that greets you with a message according to the time of the day and shows a different background on page refresh. It also allows you to set your main/focus task of the day and create your own todo list.
 
+[![Visit Website](https://img.shields.io/badge/Visit-Website-blue)](https://greet-ext.netlify.app/)
+
+
 ## Features
 
 - **Dynamic Greetings**: Receive personalized greetings based on the time of the day.
