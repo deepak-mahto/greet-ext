@@ -16,6 +16,7 @@ function App() {
       type: "NAME",
       payload: userName,
     });
+    // eslint-disable-next-line
   }, []);
 
   return (

@@ -3,6 +3,7 @@ import { useBrowser } from "../../context/browser-context";
 import { Fragment } from "react";
 
 export const Home = () => {
+  // eslint-disable-next-line
   const { name, browserDispatch } = useBrowser();
 
   const handleFormSubmit = (event) => {
